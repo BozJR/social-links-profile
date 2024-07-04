@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://bozjr-social-links-profile.netlify.app)
+- Live Site URL: [https://bozjr-social-links-profile.netlify.app]
 
 
 ### Built with
@@ -46,4 +46,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/BozJR)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/BozJR]
