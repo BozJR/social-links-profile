@@ -80,6 +80,11 @@ li {
     padding-bottom: 1rem;
 }
 
+li:active,
+li:hover {
+    background-color: var(--Green);
+}
+
 .attribution { 
     font-size: 11px; 
     text-align: center; 
