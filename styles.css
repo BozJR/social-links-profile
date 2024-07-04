@@ -48,7 +48,8 @@ div.container {
 
 }
 
-h2 {
+h1 {
+    font-size: 22px;
     text-align: center;
     padding-bottom: 0.5rem;
 }
