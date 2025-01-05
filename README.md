@@ -1,6 +1,6 @@
-# Frontend Mentor - Social links profile solution
+# Social links profile solution
 
-This is my solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is my solution to creating the format for a Social links profile. 
 
 ## Table of contents
 
@@ -15,9 +15,7 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
 
 ## Overview
 
-Build out a social links profile and get it looking as close to the design as possible.
-
-- You can use any tools you like to help you complete the challenge.
+Build out a social links profile format.
 
 
 ### The challenge
@@ -46,4 +44,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/BozJR]
+- GitHub Profile - https://github.com/BozJR?tab=repositories
